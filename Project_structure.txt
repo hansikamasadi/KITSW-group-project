@@ -1,0 +1,18 @@
+kitsw-navigation-app/
+├── public/
+│   ├── index.html
+│   └── assets/ (images, icons)
+├── src/
+│   ├── components/
+│   │   ├── Homepage.js
+│   │   ├── CampusMap.js
+│   │   ├── SearchDirections.js
+│   │   ├── FreshersGuide.js
+│   │   └── Footer.js
+│   ├── data/
+│   │   └── locations.json
+│   ├── App.js
+│   ├── index.js
+│   └── styles.css
+├── package.json
+└── README.md

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Computer Science Department",
+    "lat": 17.9784,
+    "lng": 79.5941,
+    "description": "Home to cutting-edge research in AI and software engineering.",
+    "photo": "path/to/photo.jpg"
+  },
+  {
+    "name": "Hostel A",
+    "lat": 17.9790,
+    "lng": 79.5950,
+    "description": "Comfortable accommodation for students.",
+    "photo": null
+  },
+  {
+    "name": "Library",
+    "lat": 17.9778,
+    "lng": 79.5935,
+    "description": "Extensive collection of books and digital resources.",
+    "photo": "path/to/library.jpg"
+  },
+  {
+    "name": "Canteen",
+    "lat": 17.9782,
+    "lng": 79.5945,
+    "description": "Fresh meals and snacks available daily.",
+    "photo": null
+  },
+  {
+    "name": "Admin Block",
+    "lat": 17.9786,
+    "lng": 79.5943,
+    "description": "Administrative offices and student services.",
+    "photo": null
+  },
+  {
+    "name": "Sports Complex",
+    "lat": 17.9792,
+    "lng": 79.5952,
+    "description": "Facilities for various sports and fitness activities.",
+    "photo": null
+  }
+]
